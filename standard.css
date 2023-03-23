@@ -9,7 +9,7 @@ html {
 }
 
 body {
-    margin: 0;
+    margin: 1;
 }
 article, aside, details, figcaption, figure, footer, header, main, menu, nav, section {
     display: block;
